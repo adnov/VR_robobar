@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/robobar.unity
+    guid: 512cba98df91cf34ab3ba181227d5141
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 55f39fb2508ebf94e81b353ee46f6a10, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c09a9576f4ca55d4da15dd8fda4592c7, type: 2}
